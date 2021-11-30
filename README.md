@@ -1,2 +1,2 @@
 ## Ödev 1
-#Patika HTML dersinin birinci ödevi.
+# Patika HTML dersinin birinci ödevi.
